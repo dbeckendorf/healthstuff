@@ -1,0 +1,1 @@
+This project is a website dedicated to educating the public about the benefits of fighting diseases by eating the right food (for example; eat cherries to fight gout). The website is www.ecdann.com
